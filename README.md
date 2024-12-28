@@ -1,1 +1,1 @@
-# mongoDB-queries-
+# mongoDB-queries- contains tema2 of sprint2 mongodb exercises
